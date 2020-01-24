@@ -1,5 +1,5 @@
 public class hwOne {
 	public static void main (String[] args){
-		System.out.println("Hello, World my name is Daniel Satana.");
+		System.out.println("Hello, World my name is Daniel Santana.");
 	}
 }
